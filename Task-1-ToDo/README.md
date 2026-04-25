@@ -23,8 +23,18 @@ This project is a GUI-based To-Do List application developed using Python. It al
 ---
 
 ## 📂 Project Structure
-Task-1-ToDo/ │ ├── todo_gui.py ├── README.md └── screenshots/ ├── 1_empty_ui.png ├── 2_tasks_added.png ├── 3_task_completed.png └── 4_task_deleted.png
 
+```
+Task-1-ToDo/
+│
+├── todo_gui.py
+├── README.md
+└── screenshots/
+    ├── 1_empty_ui.png
+    ├── 2_tasks_added.png
+    ├── 3_task_completed.png
+    └── 4_task_deleted.png
+```
 ---
 
 ## ▶️ How to Run
